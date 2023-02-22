@@ -1,0 +1,20 @@
+header {
+<<<<<<< HEAD
+    border-bottom: 1px solid #CCC;
+    height: 70px;
+    width: 100%;
+    background: #FFF url("../images/logo.png") 20px center no-repeat;
+}
+
+=======
+    background-color: #ffffff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px #CCCCCC solid;
+}
+header .logo {
+    background: url("../images/logo.png") no-repeat;
+    left: 20px;
+    height: 100%;
+}
+>>>>>>> db45cc95fb3f6c747221ed00844b6038bebaf19d

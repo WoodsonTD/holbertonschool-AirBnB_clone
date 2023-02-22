@@ -1,0 +1,25 @@
+footer {
+<<<<<<< HEAD
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    line-height: 60px;
+    text-align: center;
+    margin: 0;
+}
+=======
+    position: fixed;
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    display: flex
+}
+footer p {
+    text-align: center;
+    margin: auto
+}
+>>>>>>> db45cc95fb3f6c747221ed00844b6038bebaf19d
