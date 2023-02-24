@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-=======
+/* common style */
 body {
     margin: 0;
     padding: 0;
@@ -8,10 +6,9 @@ body {
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif
 }
+/* containger style */
 .container {
     max-width: 1000px;
     margin: 30px auto;
-    display: flex;
-    justify-content: center;
 }
->>>>>>> db45cc95fb3f6c747221ed00844b6038bebaf19d
+
